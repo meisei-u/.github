@@ -1,5 +1,5 @@
 # meisei-u.org
-[明星大学](https://www.meisei-u.ac.jp)の非公式非認可エンジニア集団
+[明星大学](https://www.meisei-u.ac.jp)の非公式非認可です。
 ## 制作物
 
 * [color](https://github.com/meisei-u/color) - 明星大学のシンボルカラーのカラーコード
